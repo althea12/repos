@@ -15,8 +15,7 @@
     "price": 200,
     "priceCurrency": "PHP",
     "lat": 16.624185,
-    "lng": 120.317459
-     
+    "lng": 120.317459 
   },
   {
     "id": 201,
@@ -53,7 +52,7 @@
     "priceCurrency": "PHP",
     "lat": 16.588458,
     "lng": 120.314939
-  }
+  },
   {
     "id": 212,
     "name": "Bacsil Ridge",
@@ -62,7 +61,7 @@
     "priceCurrency": "PHP",
     "lat": 16.618277,
     "lng": 120.362899
-  }
+  },
     {
     "id": 213,
     "name": "Baluarte Watch Tower",
@@ -71,7 +70,7 @@
     "priceCurrency": "PHP",
     "lat": 16.857125,
     "lng": 120.372859
-  }
+  },
     {
     "id": 214,
     "name": "Pebble Beach Resort",
@@ -80,7 +79,7 @@
     "priceCurrency": "PHP",
     "lat": 16.839592,
     "lng": 120.337890
-  }
+  },
     {
     "id": 215,
     "name": "Aureo La Union",
@@ -89,7 +88,7 @@
     "priceCurrency": "PHP",
     "lat": 16.600162,
     "lng": 120.301748
-  }
+  },
     {
     "id": 216,
     "name": "Basilica Minore of Our Lady of Charity",
@@ -98,7 +97,7 @@
     "priceCurrency": "PHP",
     "lat": 16.324693,
     "lng":  120.355421
-  }
+  },
     {
     "id": 217,
     "name": "Agoo-Damortis National Seashore Park",
@@ -107,7 +106,7 @@
     "priceCurrency": "PHP",
     "lat": 16.354064,
     "lng": 120.343005
-  }
+  },
     {
     "id": 218,
     "name": "Kahuna Beach Resort and Spa",
@@ -116,7 +115,7 @@
     "priceCurrency": "PHP",
     "lat": 16.659318,
     "lng": 120.322019
-  }
+  },
     {
     "id": 219,
     "name": "Balballosa, San Juan La Union",
