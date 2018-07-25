@@ -1,128 +1,146 @@
 [
   {
-    "id": 145,
-    "name": "Christ the Redeemer Statue",
-    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYzcR5voohSjFC9vlhQuRr1KtodEg242faiNVG=s1600-w1600",
-    "price": 164,
-    "priceCurrency": "PHP",
-    "lat": 16.620468,
-    "lng": 120.318918
-  },
-  {
-    "id": 148,
-    "name": "Ma-Cho Temple (Taoist Temple)",
-    "imageUrl": "https://lh5.googleusercontent.com/proxy/uU9wbhmrY_DuDcm9Lp9Z6HIWRqKhvvaorwK2Q1gjmAOg_liLFhOW84QiL1GG4ctvIDtllWJjNPSZGTBwoeRGQ0rOEadqawv7lgLz8lHZgiokJ1TBa-sEwOPl5aw_VTlM8_Cyh23hb7g139C8KhGTubdEN4WRPw=w408-h305-k-no",
-    "price": 200,
-    "priceCurrency": "PHP",
-    "lat": 16.624185,
-    "lng": 120.317459 
-  },
-  {
-    "id": 201,
-    "name": "La Union Botanical and Zoological Garden",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPawuWh8hsrTi4UTxxJ29S6pQ5duzOVCG7FRg0Y=w408-h306-k-no",
-    "price": 150,
-    "priceCurrency": "PHP",
-    "lat": 16.586664,
-    "lng": 120.365217
-  },
-  {
-    "id": 205,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://lh6.googleusercontent.com/proxy/LO7qG7LbF_wmVFC33gf6vTGf2Ueq-lsxXZ-Y-oHGzKKLgw02zUfsFIl-0twUgjPYrHEzU-biQAatQyvmrT7ZHm4pz4r2pmWfm05uua423j6as3k8piyqXEgKY7evlJ_GZv1sZqYLLnScMXxm6s-3jfGVcFiQEw=w408-h247-k-no",
-    "price": 115,
-    "priceCurrency": "PHP",
-    "lat": 16.643617,
-    "lng": 120.448767
-  },
-  {
-    "id": 210,
-    "name": "Lomboy Farms Resort",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOyS8wqCDHvaq5nvogO2pcguOi2PAzJapkVaQma=w408-h306-k-no",
-    "price": 135,
-    "priceCurrency": "PHP",
-    "lat": 16.469394,
-    "lng": 120.330889
-  },
-  {
-    "id": 211,
-    "name": "Pindangan Ruins",
-    "imageUrl": "https://lh6.googleusercontent.com/proxy/B80C6nGVC2QPGFWILULhe585PvdYg0jaOMQRKqBn2rNbuSFWJItBm6GbcXOUNzcMl59Q8s1FO2B4MF6_y0fEzZPRNV1JdfXnOKPQvgsTepI4inPlMsCNPH0Yze5TA2GWqU_BUlCtmbXCk6MwckdW-wlF89qTE1Y=w408-h228-k-no",
-    "price": 90,
-    "priceCurrency": "PHP",
-    "lat": 16.588458,
-    "lng": 120.314939
-  },
-  {
-    "id": 212,
-    "name": "Bacsil Ridge",
-    "imageUrl": "https://lh5.googleusercontent.com/proxy/HrN3ugxeWh2-0pAph7CqzOz35j-2OAgxm0WzYtaoUYJDYNXOmIA07z-X5t_4_KHqfMXihNw3r5NzhIBO97l5v45eQVXCTuRXyFpkuWwBqiZILITKwZl6fftC4TLM589UGgfVZLhrmIko0WmDsnqQczMpk3_LijA=w408-h563-k-no",
-    "price": 91,
-    "priceCurrency": "PHP",
-    "lat": 16.618277,
-    "lng": 120.362899
-  },
-    {
-    "id": 213,
-    "name": "Baluarte Watch Tower",
-    "imageUrl": "https://lh3.googleusercontent.com/proxy/aQISzTASbFJptMnbNuGvbgOuGRabmO8hX0kjmmItaE0KxJCIBJOHlRfb2r0xh7zxk2cmB_qGHLuoAsVVgWbvA-9A88kLn9oukX2nFD-yF_el1Z1UnErv0UqQ0cdfmsez97z9fXI2BosW21EFpVQvoPbL6fePFeg=w408-h271-k-no",
-    "price": 92,
-    "priceCurrency": "PHP",
-    "lat": 16.857125,
-    "lng": 120.372859
-  },
-    {
-    "id": 214,
-    "name": "Pebble Beach Resort",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOjmxDZIC3Pr5pNnoVNEf20L3CyJMFQwRmKcHzc=w408-h306-k-no",
-    "price": 93,
-    "priceCurrency": "PHP",
-    "lat": 16.839592,
-    "lng": 120.337890
-  },
-    {
-    "id": 215,
-    "name": "Aureo La Union",
-    "imageUrl": "https://lh5.googleusercontent.com/proxy/HEDQu8G-YHqJBhrI8xr1YlDvNqN8hsZEVYfkLJL1nopJnz3PQqMbJM8n5A5xJtXTErnGJy393NNmFyZP0qpm22K4a1vR7mch1PsSjTxNHJCtC9TNkm-yo5IObhyQ-HZkW3A7Tsz8UKwASKbQ2BqVI-90a_MkzQ=w408-h223-k-no",
-    "price": 94,
-    "priceCurrency": "PHP",
-    "lat": 16.600162,
-    "lng": 120.301748
-  },
-    {
-    "id": 216,
-    "name": "Basilica Minore of Our Lady of Charity",
-    "imageUrl": "https://lh5.googleusercontent.com/proxy/3PVOP9YJ5NvYh9ZCQ9VHJvcLMO875glCGrZfeioqjWsPkxFwOqIKBZd7djVCp5Rl2mI5eTMOLEVjErizdCtxUBtLTqGl33ak4koRFne69M6OEqXBhcthogPocVkibBxM3a3fW-itUd0YOzZEudTQKODOPASO3nc=w408-h305-k-no",
-    "price": 95,
-    "priceCurrency": "PHP",
-    "lat": 16.324693,
-    "lng":  120.355421
-  },
-    {
-    "id": 217,
-    "name": "Agoo-Damortis National Seashore Park",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM66Sgf3rFBWVESQQeaZs1_Yodc6aiQCfOL7vAR=w408-h306-k-no",
-    "price": 96,
-    "priceCurrency": "PHP",
-    "lat": 16.354064,
-    "lng": 120.343005
-  },
-    {
-    "id": 218,
-    "name": "Kahuna Beach Resort and Spa",
-    "imageUrl": "https://lh6.googleusercontent.com/proxy/Nd0hKgMPaVGRvcIs3Px5RinYiOqJKeD1oHvQJHaxKs6tAMxwuGItSs6mi6I-k6NlQ9Q0w6hrK04S0_wgTCSwNIkkINGU51-7MesDMYrx7cfiBE-vKRw6MrgCvYfjCLKI4tQhwgBVTh7sYO_bWX284u6u2kjyWg=w408-h272-k-no",
-    "price": 97,
-    "priceCurrency": "PHP",
-    "lat": 16.659318,
-    "lng": 120.322019
-  },
-    {
-    "id": 219,
+    "id": 1,
     "name": "Balballosa, San Juan La Union",
     "imageUrl": "https://geo1.ggpht.com/cbk?panoid=jFYPTOf4uqZbk_HNuz2ryw&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=16.478462&pitch=0&thumbfov=100",
-    "price": 98,
-    "priceCurrency": "PHP",
+    "price": 25,
+    "priceCurrency": "KM",
     "lat": 16.653366,
-    "lng":  120.417189
+    "lng": 120.417189
+  },
+  {
+    "id": 2,
+    "name": "San Augustin Church",
+    "imageUrl": "http://i1.wp.com/two2travel.com/wp-content/uploads/2014/02/8137126649_3c4a68cbc3_o.jpg?fit=1024%2C583",
+    "price": 198,
+    "priceCurrency": "KM",
+    "lat": 18.061869,
+    "lng": 120.521527 
+  },
+  {
+    "id": 3,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://www.wmf.org/sites/default/files/styles/project_gallery_full_size/public/projects/gallery/PHL-Rice-01.jpg?itok=BQmhsNdV",
+    "price": 207,
+    "priceCurrency": "KM",
+    "lat": 16.937244,
+    "lng":  121.056640
+  },
+  {
+    "id": 4,
+    "name": "Mount Pulag",
+    "imageUrl": "http://www.trailadventours.com/images/ca9acd773a4e810743df8b4c5e1038e6.jpg",
+    "price": 132,
+    "priceCurrency": "KM",
+    "lat": 16.598621,
+    "lng": 120.899325
+  },
+  {
+    "id": 5,
+    "name": "Mines View Park",
+    "imageUrl": "https://static.wixstatic.com/media/24ca7c_565d9858fd524ab1a1e05a80f31380d9.jpg/v1/fill/w_784,h_502,al_c,q_90,usm_0.66_1.00_0.01/24ca7c_565d9858fd524ab1a1e05a80f31380d9.webp",
+    "price": 69.1,
+    "priceCurrency": "KM",
+    "lat": 16.424071,
+    "lng": 120.629808
+  },
+  {
+    "id": 6,
+    "name": "Hundred Island National Park",
+    "imageUrl": "https://1.bp.blogspot.com/--N3wyboVjUY/WPcNhphlNcI/AAAAAAAAA54/JjoCKrBQOaASnVLMsxpBYq4MixC1gy_OwCEw/s1600/Hundred%2BIslands.jpg",
+    "price": 150,
+    "priceCurrency": "KM",
+    "lat": 16.203352,
+    "lng": 120.039913
+  },
+  {
+    "id": 7,
+    "name": "Tubbataha Reef",
+    "imageUrl": "https://static.rappler.com/images/tubbataha1-20130120.jpg",
+    "price": 1092,
+    "priceCurrency": "KM",
+    "lat": 9.722079,
+    "lng": 118.760417
+  },
+    {
+    "id": 8,
+    "name": "Puerto Princesa Underground River",
+    "imageUrl": "http://www.nagacityguide.com/wordpress/wp-content/uploads/2017/01/16533767050_02649753b2_k-1024x575.jpg",
+    "price": 1089,
+    "priceCurrency": "KM",
+    "lat": 10.206124,
+    "lng": 118.920587
+  },
+    {
+    "id": 9,
+    "name": "Coron, Palawan",
+    "imageUrl": "https://thumbs.dreamstime.com/b/pier-coron-palawan-philippines-coron-background-tour-pier-coron-palawan-philippines-111333292.jpg",
+    "price": 728,
+    "priceCurrency": "KM",
+    "lat": 12.064573,
+    "lng": 120.193665
+  },
+    {
+    "id": 10,
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://www.gettingstamped.com/wp-content/uploads/2016/02/Things-to-do-in-El-Nido-Philippines-matinloc-shrine-El-Nido-Tour-C-1-800x530.jpg",
+    "price": 902,
+    "priceCurrency": "KM",
+    "lat": 11.193475,
+    "lng": 119.462830
+  },
+    {
+    "id": 11,
+    "name": "Tagaytay, Cavite",
+    "imageUrl": "https://d2xhb6dlmwuncu.cloudfront.net/destinations/city/1729027_.jpg",
+    "price": 356,
+    "priceCurrency": "KM",
+    "lat": 14.121480,
+    "lng": 120.960400
+  },
+    {
+    "id": 12,
+    "name": "Vigan City",
+    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/11/Things-to-Do-in-Vigan.jpg",
+    "price": 137,
+    "priceCurrency": "KM",
+    "lat": 17.570342,
+    "lng": 120.384595
+  },
+    {
+    "id": 13,
+    "name": "Siquijor",
+    "imageUrl": "https://www.geekyexplorer.com/wp-content/uploads/2017/04/must-visit-places-siquijor-island-cambuhagay-falls.jpg",
+    "price": 1258,
+    "priceCurrency": "KM",
+    "lat": 9.180264,
+    "lng": 123.590918
+  },
+    {
+    "id": 14,
+    "name": "Catanduanes Island",
+    "imageUrl": "http://1.bp.blogspot.com/-GwYXZ8bgSmE/UV-03b5yp1I/AAAAAAAAIbQ/Xc_Ag11joGQ/s1600/DSC_0860.JPG",
+    "price": 818,
+    "priceCurrency": "KM",
+    "lat": 13.621105,
+    "lng": 124.143898
+  },
+  {
+    "id": 15,
+    "name": "Mayon Volcano",
+    "imageUrl": "http://famouswonders.com/wp-content/uploads/2009/10/Mayon-Volcano.jpg",
+    "price": 751,
+    "priceCurrency": "KM",
+    "lat": 13.261479,
+    "lng": 123.693724
+  },
+  {
+    "id": 16,
+    "name": "Danjugan Island
+    "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2017/10/Danjugan-Island-Drone.jpg",
+    "price": 1152
+    "priceCurrency": "KM",
+    "lat": 9.857214,
+    "lng": 122.360246
   }
 ]
