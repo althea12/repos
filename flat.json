@@ -3,8 +3,8 @@
     "id": 1,
     "name": "Balballosa, San Juan La Union",
     "imageUrl": "https://geo1.ggpht.com/cbk?panoid=jFYPTOf4uqZbk_HNuz2ryw&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=16.478462&pitch=0&thumbfov=100",
-    "distance": 25,
-    "priceCurrency": "KM",
+    "distance": 0,
+    "distanceUnit": "KM",
     "lat": 16.653366,
     "lng": 120.417189
   },
@@ -13,7 +13,7 @@
     "name": "San Augustin Church",
     "imageUrl": "http://i1.wp.com/two2travel.com/wp-content/uploads/2014/02/8137126649_3c4a68cbc3_o.jpg?fit=1024%2C583",
     "distance": 198,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 18.061869,
     "lng": 120.521527 
   },
@@ -22,7 +22,7 @@
     "name": "Banaue Rice Terraces",
     "imageUrl": "https://www.wmf.org/sites/default/files/styles/project_gallery_full_size/public/projects/gallery/PHL-Rice-01.jpg?itok=BQmhsNdV",
     "distance": 207,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 16.937244,
     "lng":  121.056640
   },
@@ -31,7 +31,7 @@
     "name": "Mount Pulag",
     "imageUrl": "http://www.trailadventours.com/images/ca9acd773a4e810743df8b4c5e1038e6.jpg",
     "distance": 132,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 16.598621,
     "lng": 120.899325
   },
@@ -40,7 +40,7 @@
     "name": "Mines View Park",
     "imageUrl": "https://static.wixstatic.com/media/24ca7c_565d9858fd524ab1a1e05a80f31380d9.jpg/v1/fill/w_784,h_502,al_c,q_90,usm_0.66_1.00_0.01/24ca7c_565d9858fd524ab1a1e05a80f31380d9.webp",
     "distance": 69,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 16.424071,
     "lng": 120.629808
   },
@@ -49,7 +49,7 @@
     "name": "Hundred Island National Park",
     "imageUrl": "https://1.bp.blogspot.com/--N3wyboVjUY/WPcNhphlNcI/AAAAAAAAA54/JjoCKrBQOaASnVLMsxpBYq4MixC1gy_OwCEw/s1600/Hundred%2BIslands.jpg",
     "distance": 150,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 16.203352,
     "lng": 120.039913
   },
@@ -58,7 +58,7 @@
     "name": "Tubbataha Reef",
     "imageUrl": "https://static.rappler.com/images/tubbataha1-20130120.jpg",
     "distance": 1092,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 9.722079,
     "lng": 118.760417
   },
@@ -67,7 +67,7 @@
     "name": "Puerto Princesa Underground River",
     "imageUrl": "http://www.nagacityguide.com/wordpress/wp-content/uploads/2017/01/16533767050_02649753b2_k-1024x575.jpg",
     "distance": 1089,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 10.206124,
     "lng": 118.920587
   },
@@ -76,7 +76,7 @@
     "name": "Coron, Palawan",
     "imageUrl": "https://thumbs.dreamstime.com/b/pier-coron-palawan-philippines-coron-background-tour-pier-coron-palawan-philippines-111333292.jpg",
     "distance": 728,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 12.064573,
     "lng": 120.193665
   },
@@ -85,7 +85,7 @@
     "name": "El Nido, Palawan",
     "imageUrl": "https://www.gettingstamped.com/wp-content/uploads/2016/02/Things-to-do-in-El-Nido-Philippines-matinloc-shrine-El-Nido-Tour-C-1-800x530.jpg",
     "distance": 902,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 11.193475,
     "lng": 119.462830
   },
@@ -94,7 +94,7 @@
     "name": "Tagaytay, Cavite",
     "imageUrl": "https://d2xhb6dlmwuncu.cloudfront.net/destinations/city/1729027_.jpg",
     "distance": 356,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 14.121480,
     "lng": 120.960400
   },
@@ -103,7 +103,7 @@
     "name": "Vigan City",
     "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/11/Things-to-Do-in-Vigan.jpg",
     "distance": 137,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 17.570342,
     "lng": 120.384595
   },
@@ -112,7 +112,7 @@
     "name": "Siquijor",
     "imageUrl": "https://www.geekyexplorer.com/wp-content/uploads/2017/04/must-visit-places-siquijor-island-cambuhagay-falls.jpg",
     "distance": 1258,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 9.180264,
     "lng": 123.590918
   },
@@ -121,7 +121,7 @@
     "name": "Catanduanes Island",
     "imageUrl": "http://1.bp.blogspot.com/-GwYXZ8bgSmE/UV-03b5yp1I/AAAAAAAAIbQ/Xc_Ag11joGQ/s1600/DSC_0860.JPG",
     "distance": 818,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 13.621105,
     "lng": 124.143898
   },
@@ -130,7 +130,7 @@
     "name": "Mayon Volcano",
     "imageUrl": "http://famouswonders.com/wp-content/uploads/2009/10/Mayon-Volcano.jpg",
     "distance": 751,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 13.261479,
     "lng": 123.693724
   },
@@ -139,7 +139,7 @@
     "name": "Danjugan Island",
     "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2017/10/Danjugan-Island-Drone.jpg",
     "distance": 1152,
-    "priceCurrency": "KM",
+    "distanceUnit": "KM",
     "lat": 9.857214,
     "lng": 122.360246
   }
